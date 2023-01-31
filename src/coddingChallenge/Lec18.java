@@ -48,7 +48,7 @@ public class Lec18 {
 				System.out.print(i + " ");
 			}
 		}
-	}
+	} 
 	
 	public static void main(String[] args) {
 		System.out.println(isPrimeNumaber(7));
