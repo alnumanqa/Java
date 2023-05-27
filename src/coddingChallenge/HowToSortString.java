@@ -18,6 +18,7 @@ public class HowToSortString {
 			}
 		}
 		System.out.println(Arrays.toString(arr));
+		System.out.println(arr);// This is wrong
 		
 
 	}

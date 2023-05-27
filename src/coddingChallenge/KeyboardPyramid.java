@@ -19,6 +19,7 @@ public class KeyboardPyramid {
 			}
 			System.out.println();
 		}
+		scanner.close();
 
 	}
 

@@ -16,6 +16,7 @@ public class Lec13 {
 		for (int i = 0; i < name.length; i++) {
 			for (int j = i + 1; j < name.length; j++) {
 				if (name[i].equals(name[j])) {
+				//if(name[i]==name[j]) {//This id ok too
 					a.add(name[i]);
 
 				}

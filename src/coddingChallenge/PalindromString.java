@@ -3,8 +3,8 @@ package coddingChallenge;
 public class PalindromString {
 
 	public static void main(String[] args) {
-		String orignal = "Mom";
-		orignal = orignal.toLowerCase();
+		String orignal = "L";
+		//orignal = orignal.toLowerCase();
 		String reverse = "";
 		for(int i = orignal.length() -1; i >=0; i--) {
 			//System.out.print(orignal.charAt(i));
